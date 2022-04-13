@@ -1,3 +1,3 @@
-# learning-git
+# to-do-list-app
 
-this repo is used to learn how to use git
+
