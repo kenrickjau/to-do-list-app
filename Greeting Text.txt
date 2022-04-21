@@ -1,6 +1,0 @@
-Greetings, 
-This the skeleton code of Group B-18 To-do List App
-Feel free to use the code or use this app.
-Hope it helps!
-
-XOXO
