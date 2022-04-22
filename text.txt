@@ -1,4 +1,0 @@
-Hello guys,
-Please put your code in this repo to presentate our software engineering project.
-
-Thanks
