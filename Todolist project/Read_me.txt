@@ -6,4 +6,4 @@ In the early stages of the project, development based on Todolist features was t
 4. Case synchronization
 5. Graphical interface
 
-Todolist's features are not currently integrated into accessible software before Assignment1, and it may be planned for further development in the next sprint.
+
